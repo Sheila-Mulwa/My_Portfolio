@@ -4,14 +4,21 @@ Hello, I'm **Sheila Mulwa**, a data scientist and data analyst with a passion fo
 
 ## 🌟 Featured Projects
 
-### 📊 [Customer Churn Prediction](./project-1-customer-churn/README.md)
-A machine learning project predicting customer churn using logistic regression and random forests.
+### 📊 [Customer Churn Prediction](https://github.com/Sheila-Mulwa/SyriaTel_Customer_Churn-Project)
+This machine learning project predicts customer churn for a telecommunications company. By applying **logistic regression** and **random forests**, I built a model that identifies high-risk customers, helping the company take proactive steps to retain them. 
 
-### 📈 [Sales Dashboard Analysis](./project-2-sales-dashboard/README.md)
-An interactive Power BI dashboard analyzing sales performance over the last 5 years.
+**Key Techniques**: Data preprocessing, feature engineering, model evaluation (accuracy, precision, recall)
 
-### 🧠 [Predictive Analytics for Marketing](./project-3-marketing-prediction/README.md)
-A time series forecasting model predicting future marketing trends using ARIMA and LSTM.
+### 📈 [Sales Dashboard Analysis](https://github.com/Sheila-Mulwa/Linear-regression-Modelling-in-Data-Science)
+An interactive **Power BI** dashboard that visualizes sales performance trends over the past 5 years. I used **linear regression** to identify key factors influencing sales and presented them through engaging, easy-to-understand visualizations.
+
+**Key Techniques**: Data visualization, Power BI, linear regression, trend analysis
+
+### 🧠 [Revenue Report Automation](https://github.com/Sheila-Mulwa/REVENUE-REPORT_AUTOMATION)
+This project focuses on automating the generation of detailed **revenue reports** for a business. I developed a system that **integrates data from various sources**, processes it, and generates formatted reports, reducing manual effort and improving accuracy. The automation also incorporates visualizations for easy decision-making by stakeholders.
+
+**Key Techniques**: Data integration, report generation, automation with Python, data visualization (Matplotlib/Seaborn)
+
 
 ---
 
@@ -25,6 +32,6 @@ A time series forecasting model predicting future marketing trends using ARIMA a
 
 ## 📫 Let's Connect
 
-- [LinkedIn](linkedin.com/in/sheila-mulwa)
-- [Email](sheila.n.mulwa@gmail.com)
+- [LinkedIn](https://linkedin.com/in/sheila-mulwa)
+- [Email](mailto:sheila.n.mulwa@gmail.com)
 
